@@ -535,4 +535,9 @@ ul.social-network li a {
 	font-weight:600;
 	font-size:12px;
 	text-shadow:none;
-} 
+}
+
+.maincontainer {
+    margin-top: 75px;
+    margin-bottom: 20px;
+}

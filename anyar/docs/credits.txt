@@ -1,0 +1,6 @@
+Credits
+===============
+
+Original by [BootstrapTaste](http://www.bootstraptaste.com/)
+
+Conversion to XOOPS: Michael Beck (https://github.com/mambax7/)
